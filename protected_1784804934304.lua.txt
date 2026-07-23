@@ -1,0 +1,285 @@
+-- Obfuscated by Ruey Obfuscator | Owned by BELLE.SG
+
+local _u0ad5e970116b = tostring({}):sub(8)
+local _U459790f9 = (function()
+  local _x = (79562-1000)
+  if _x ~= 78562 then return false end
+  local _g = getgenv and getgenv() or _G
+  if _g.__RBL_60343e6397 then return false end
+  _g.__RBL_60343e6397 = _u0ad5e970116b
+  return true
+end)()
+local _Z815778218f31d = function(_f) if not _U459790f9 then _f=nil end; return _f end
+
+local _mfbae05c2064 = {}
+local _r46bb0ec970 = type(nil)
+local _k18eab71ed5c4b = math.floor(1916 * 1)
+local _Gc4cf0aaad282c = (9670-1000)
+local _H8b09b6f5e805 = {}
+local _e474a26ded70c = (64 > 525) and 4 or 56
+local _O9c9b6ff4c5 = (82 > 197) and 7 or 77
+local _V3c1eac8fd4 = tostring(5906)
+local _O01331a48 = tostring(4461)
+local _Bfeb500b344 = select("#")
+
+if (76<5) then
+  local _L9b1e7bbb58bef = game:GetService("Workspace")
+  if _L9b1e7bbb58bef then local _x785ec97722f=_L9b1e7bbb58bef.Name end
+end
+if (28*(28+1))%2~=0 then
+  local _Naaef6c6c69e = game:GetService("RunService")
+  if _Naaef6c6c69e then local _e1218a1059=_Naaef6c6c69e.Name end
+end
+if (23*(23+1))%2~=0 then
+  local _Rf0252e53a0 = game:GetService("Players")
+  if _Rf0252e53a0 then local _k722740cf9a0bc=_Rf0252e53a0.Name end
+end
+if type(nil)=="number" then
+  local _Gd8ba4a824d09 = game:GetService("Players")
+  if _Gd8ba4a824d09 then local _D8281a02451334=_Gd8ba4a824d09.Name end
+end
+
+local _Q14d95514370 = getfenv and getfenv() or _G
+_Q14d95514370._d = "deobfuscation failed: touch grass"
+_Q14d95514370._d = "you thought you could deobfuscate this? skill issue fr fr"
+_Q14d95514370._x = "nice try loser lmaooo get rekt"
+_Q14d95514370._g = "Aww, look at you, a skid trying to dump my obfuscated code!!! Silly skid, it's not that easy, maybe next time ;3"
+_Q14d95514370._c = "Aww, look at you, a skid trying to dump my obfuscated code!!! Silly skid, it's not that easy, maybe next time ;3"
+_Q14d95514370._a = "Aww, look at you, a skid trying to dump my obfuscated code!!! Silly skid, it's not that easy, maybe next time ;3"
+_Q14d95514370._g = "deobfuscation failed: touch grass"
+_Q14d95514370._g = "you thought you could deobfuscate this? skill issue fr fr"
+_Q14d95514370._x = "nice try loser lmaooo get rekt"
+_Q14d95514370._y = "ratio + L + no source 4 u skid"
+_Q14d95514370._h = "you thought you could deobfuscate this? skill issue fr fr"
+_Q14d95514370._h = "you thought you could deobfuscate this? skill issue fr fr"
+_Q14d95514370._a = "ratio + L + no source 4 u skid"
+_Q14d95514370._x = "Aww, look at you, a skid trying to dump my obfuscated code!!! Silly skid, it's not that easy, maybe next time ;3"
+_Q14d95514370._c = "Aww, look at you, a skid trying to dump my obfuscated code!!! Silly skid, it's not that easy, maybe next time ;3"
+_Q14d95514370._f = "deobfuscation failed: touch grass"
+_Q14d95514370._e = "you thought you could deobfuscate this? skill issue fr fr"
+_Q14d95514370._x = "nice try loser lmaooo get rekt"
+_Q14d95514370._h = "deobfuscation failed: touch grass"
+_Q14d95514370._f = "you thought you could deobfuscate this? skill issue fr fr"
+_Q14d95514370._g = "nice try loser lmaooo get rekt"
+_Q14d95514370._h = "nice try loser lmaooo get rekt"
+_Q14d95514370._b = "Aww, look at you, a skid trying to dump my obfuscated code!!! Silly skid, it's not that easy, maybe next time ;3"
+_Q14d95514370._d = "ratio + L + no source 4 u skid"
+_Q14d95514370._c = "Aww, look at you, a skid trying to dump my obfuscated code!!! Silly skid, it's not that easy, maybe next time ;3"
+_Q14d95514370._h = "you thought you could deobfuscate this? skill issue fr fr"
+_Q14d95514370._g = "ratio + L + no source 4 u skid"
+_Q14d95514370._d = "Aww, look at you, a skid trying to dump my obfuscated code!!! Silly skid, it's not that easy, maybe next time ;3"
+_Q14d95514370._d = "Aww, look at you, a skid trying to dump my obfuscated code!!! Silly skid, it's not that easy, maybe next time ;3"
+_Q14d95514370._b = "get rekt skid, this is BELLE.SG protected"
+_Q14d95514370._c = "ratio + L + no source 4 u skid"
+_Q14d95514370._d = "nice try loser lmaooo get rekt"
+_Q14d95514370._b = "Aww, look at you, a skid trying to dump my obfuscated code!!! Silly skid, it's not that easy, maybe next time ;3"
+_Q14d95514370._b = "you thought you could deobfuscate this? skill issue fr fr"
+_Q14d95514370._e = "deobfuscation failed: touch grass"
+_Q14d95514370._a = "ratio + L + no source 4 u skid"
+_Q14d95514370._c = "get rekt skid, this is BELLE.SG protected"
+_Q14d95514370._a = "nice try loser lmaooo get rekt"
+_Q14d95514370._b = "you thought you could deobfuscate this? skill issue fr fr"
+_Q14d95514370._g = "you thought you could deobfuscate this? skill issue fr fr"
+_Q14d95514370._d = "get rekt skid, this is BELLE.SG protected"
+_Q14d95514370._f = "you thought you could deobfuscate this? skill issue fr fr"
+_Q14d95514370._b = "ratio + L + no source 4 u skid"
+_Q14d95514370._d = "get rekt skid, this is BELLE.SG protected"
+_Q14d95514370._d = "get rekt skid, this is BELLE.SG protected"
+_Q14d95514370._e = "deobfuscation failed: touch grass"
+_Q14d95514370._b = "Aww, look at you, a skid trying to dump my obfuscated code!!! Silly skid, it's not that easy, maybe next time ;3"
+_Q14d95514370._d = "Aww, look at you, a skid trying to dump my obfuscated code!!! Silly skid, it's not that easy, maybe next time ;3"
+_Q14d95514370._f = "you thought you could deobfuscate this? skill issue fr fr"
+_Q14d95514370._f = "Aww, look at you, a skid trying to dump my obfuscated code!!! Silly skid, it's not that easy, maybe next time ;3"
+_Q14d95514370._x = "Aww, look at you, a skid trying to dump my obfuscated code!!! Silly skid, it's not that easy, maybe next time ;3"
+_Q14d95514370._c = "Aww, look at you, a skid trying to dump my obfuscated code!!! Silly skid, it's not that easy, maybe next time ;3"
+_Q14d95514370._f = "Aww, look at you, a skid trying to dump my obfuscated code!!! Silly skid, it's not that easy, maybe next time ;3"
+_Q14d95514370._x = "Aww, look at you, a skid trying to dump my obfuscated code!!! Silly skid, it's not that easy, maybe next time ;3"
+_Q14d95514370._g = "nice try loser lmaooo get rekt"
+_Q14d95514370._g = "deobfuscation failed: touch grass"
+_Q14d95514370._e = "ratio + L + no source 4 u skid"
+_Q14d95514370._d = "get rekt skid, this is BELLE.SG protected"
+_Q14d95514370._c = "Aww, look at you, a skid trying to dump my obfuscated code!!! Silly skid, it's not that easy, maybe next time ;3"
+_Q14d95514370._y = "ratio + L + no source 4 u skid"
+_Q14d95514370._x = "you thought you could deobfuscate this? skill issue fr fr"
+_Q14d95514370._g = "get rekt skid, this is BELLE.SG protected"
+_Q14d95514370._f = "get rekt skid, this is BELLE.SG protected"
+_Q14d95514370._b = "Aww, look at you, a skid trying to dump my obfuscated code!!! Silly skid, it's not that easy, maybe next time ;3"
+_Q14d95514370._x = "deobfuscation failed: touch grass"
+_Q14d95514370._f = "Aww, look at you, a skid trying to dump my obfuscated code!!! Silly skid, it's not that easy, maybe next time ;3"
+_Q14d95514370._x = "you thought you could deobfuscate this? skill issue fr fr"
+_Q14d95514370._y = "nice try loser lmaooo get rekt"
+_Q14d95514370._d = "Aww, look at you, a skid trying to dump my obfuscated code!!! Silly skid, it's not that easy, maybe next time ;3"
+_Q14d95514370._h = "you thought you could deobfuscate this? skill issue fr fr"
+_Q14d95514370._g = "ratio + L + no source 4 u skid"
+_Q14d95514370._f = "ratio + L + no source 4 u skid"
+_Q14d95514370._h = "ratio + L + no source 4 u skid"
+_Q14d95514370._y = "nice try loser lmaooo get rekt"
+_Q14d95514370._e = "Aww, look at you, a skid trying to dump my obfuscated code!!! Silly skid, it's not that easy, maybe next time ;3"
+_Q14d95514370._f = "deobfuscation failed: touch grass"
+_Q14d95514370._c = "ratio + L + no source 4 u skid"
+_Q14d95514370._h = "get rekt skid, this is BELLE.SG protected"
+_Q14d95514370._a = "Aww, look at you, a skid trying to dump my obfuscated code!!! Silly skid, it's not that easy, maybe next time ;3"
+_Q14d95514370._b = "get rekt skid, this is BELLE.SG protected"
+_Q14d95514370._x = "get rekt skid, this is BELLE.SG protected"
+_Q14d95514370._x = "Aww, look at you, a skid trying to dump my obfuscated code!!! Silly skid, it's not that easy, maybe next time ;3"
+local _nc80e661f6eb6 = "Aww, look at you, a skid trying to dump my obfuscated code!!! Silly skid, it's not that easy, maybe next time ;3"
+local _Z4df268404684 = "Aww, look at you, a skid trying to dump my obfuscated code!!! Silly skid, it's not that easy, maybe next time ;3"
+local _E765755bb = "Aww, look at you, a skid trying to dump my obfuscated code!!! Silly skid, it's not that easy, maybe next time ;3"
+local _F958988759 = "Aww, look at you, a skid trying to dump my obfuscated code!!! Silly skid, it's not that easy, maybe next time ;3"
+local _J4625c0260 = "Aww, look at you, a skid trying to dump my obfuscated code!!! Silly skid, it's not that easy, maybe next time ;3"
+local _pfa8322e1d892 = "Aww, look at you, a skid trying to dump my obfuscated code!!! Silly skid, it's not that easy, maybe next time ;3"
+local _s017a50df7 = "Aww, look at you, a skid trying to dump my obfuscated code!!! Silly skid, it's not that easy, maybe next time ;3"
+local _Zf707bb91f807b = "Aww, look at you, a skid trying to dump my obfuscated code!!! Silly skid, it's not that easy, maybe next time ;3"
+local _V46a47886639f4 = "Aww, look at you, a skid trying to dump my obfuscated code!!! Silly skid, it's not that easy, maybe next time ;3"
+local _z7344928a = "Aww, look at you, a skid trying to dump my obfuscated code!!! Silly skid, it's not that easy, maybe next time ;3"
+local _nd3fdf5a16f = "Aww, look at you, a skid trying to dump my obfuscated code!!! Silly skid, it's not that easy, maybe next time ;3"
+
+
+if false then local _N808586431c = 397 end
+local _Ae5b0c23a0fa7 = type(nil)
+local _t307d245e = math.floor(3228 * 1)
+local _sc44a00ec5fa5 = type(nil)
+local _a6badb6904 = select("#")
+local _t5d7666d45 = {}
+
+if type(nil)=="number" then
+  local _y7a2a06ca = game:GetService("RunService")
+  if _y7a2a06ca then local _h345318ad=_y7a2a06ca.Name end
+end
+if type(nil)=="number" then
+  local _O7ce1e3c9bb94b = game:GetService("Players")
+  if _O7ce1e3c9bb94b then local _wa53e4848=_O7ce1e3c9bb94b.Name end
+end
+if (33<4) then
+  local _Kd006fa715 = game:GetService("ReplicatedStorage")
+  if _Kd006fa715 then local _E525fb24ad5=_Kd006fa715.Name end
+end
+
+local _F3abe4ebf95cb=(function()
+  local _ve83d24ea=(function()
+    local _Hb532226aa9974=string.char
+    local _D55dd4e23=string.gsub
+    local _Z73640b6734dc=string.byte
+    local _c6a5abc3eb=table.concat
+    local _of775fa41aadb2=ipairs
+    local _Z36a65d1b=pcall
+    local _c46da2f18=type
+    local _P49254083dc8=tostring
+    local _X049bbe9436=math.floor
+    
+    local _nb35cc36e755={(50-6),(78+12-12),(241+22-22),(144+24),(221-28-36),(1157-1000),(150-72-31),(50+19),(55+41-41),(1170-1000),(65+39-39),(114-76),(142+11),(251-86-18),(81+11-11),(279-30-2),(45-18),(126-59-21),(142+11),(164+36),(1030-1000),(186-124),(32+2-2),(147+25-25),(48-32),(246-26-11),(1115-1000),(193+34),(294-196),(618-412),(-31+50),(161+4-4),(1007-1000),(189+4),(179-44-15),(1055-1000),(210-63-30),(63+5),(465-310),(117+32-32),(270-62-27),(1130-1000),(71+5-5),(281-83),(124-40),(248+6),(447-298),(179-9),(187+2-2),(113+47),(1242-1000),(1086-1000),(130+48-48)}
+    local _fe30ff2f0={(103+24-24),(114-76),(138+43),(146+41-41),(36+37-37),(1064-1000),(1147-1000),(272-68-15),(167-58),(23-8),(142+29),(300-200),(122+37-37),(192+23),(83-38),(228-95-44),(72-1),(207-25-30),(65+25),(189-80-5),(744-496),(1185-1000),(369-246),(47+38-38),(129-50-19),(171+1),(239-21),(131-45-31),(1017-1000),(59-49),(254+44-44),(18+24-24),(243-162),(1132-1000),(1042-1000),(316-82),(271-42-45),(1179-1000),(112+29-29),(209+40),(96-64),(178-67),(-15+42),(723-482),(561-374),(149+5),(93+6),(130-35),(125+29-29),(191-78-44),(489-326),(62+49-49),(328-26-47),(279-35),(302-49),(228+18-18),(218-44),(53+38),(221-60),(200+24-24),(99-86),(115-56),(0-0),(219-91-12),(128+20),(311-80),(1208-1000),(287-50),(1118-1000),(71-21),(154-91-49),(1240-1000),(534-356),(174+24),(1217-1000),(93-42-17),(56+40-40),(238+13-13),(135+21),(113+25-25),(318-95-10),(25+40),(147-98),(166-88),(1221-1000),(104+24),(741-494),(159-71-35),(133+25),(127-76),(251+35-35),(31+37),(255-170),(23+3),(675-450),(51-26),(117-76),(411-274),(492-328),(112-24),(112-25-15),(106-36-31),(6+33-33),(1252-1000),(128-36-10),(227-2-34),(2+5-5),(157+49-49),(166+42-42),(196-43),(202+7-7),(76+5-5),(1044-1000),(210+26-26),(203+45-45),(94-65),(171-55-15),(429-286),(228-86),(167-6-30),(233+16-16),(65-29-14),(280-54-29),(280-30-45),(113-11),(300-65),(308-54-43),(301-74),(71+49),(-32+37),(206+23),(167+31-31),(1165-1000),(227-50-7),(254-87-22),(-4+13),(121+8-8),(271-51-38),(70+32-32),(390-260),(230+40-40),(189-1),(199+8-8),(86+50),(93+13-13),(12+21),(31+50-50),(1087-1000),(1+29-29),(30+37-37),(76+1),(140+10),(260-74),(72-48),(1097-1000),(1151-1000),(147-97-42),(1216-1000),(1224-1000),(1204-1000),(206+20),(268-6-26),(165-60),(164+30),(181+2),(144+15-15),(28+6-6),(96+19-19),(223-99),(42+42),(32-9),(318-212),(288-66-49),(1058-1000),(314-67-2),(129+40-40),(85+29),(128-30),(191+15),(160+36),(84+50),(215-88-12),(245-24-12),(57+13-13),(203-35),(151-18),(1141-1000),(33-22),(108+15-15),(189-126),(1214-1000),(1003-1000),(528-352),(166+9),(636-424),(28+47),(279-47),(138+36-36),(236-38-8),(1037-1000),(1149-1000),(9+39),(1135-1000),(1061-1000),(1020-1000),(-24+31),(180-88),(229-26-41),(160-33-48),(83-9),(106-43-44),(247-54-1),(93+1),(14+38),(180+14-14),(134-54),(1083-1000),(39+27),(220+26-26),(36-24),(77-25-12),(65-28-2),(127+2-2),(195+21-21),(531-354),(603-402),(149-37-2),(729-486),(1004-1000),(353-97-37),(5+38),(207+12-12),(188-4-15),(4+17),(284-30-4),(1117-1000),(223+26-26),(1242-1000),(293-43-4),(1140-1000),(158+2),(162-108),(258-172),(126+15-15),(37+9),(465-310),(67+42-42),(102+37),(159+30-30),(16+43-43),(579-386),(219+20),(186-63-4),(321-214),(1073-1000),(666-444)}
+    local _O9be33eeeb4908={}
+    for _i=1,256 do _O9be33eeeb4908[_fe30ff2f0[_i]]=_i-1 end
+    
+    local _o5856b1bb50735=0
+    for _,_b in _of775fa41aadb2(_nb35cc36e755) do
+      local _r,_ba,_bk,_bt=0,_o5856b1bb50735,_b,1
+      for _j=1,8 do local _ab,_kb=_ba%2,_bk%2;if _ab~=_kb then _r=_r+_bt end;_ba=(_ba-_ab)/2;_bk=(_bk-_kb)/2;_bt=_bt*2 end
+      _o5856b1bb50735=_r
+    end
+    
+    local _r41f0b29c46b=function(_a,_b)
+      local _r,_ba,_bk,_bt=0,_a,_b,1
+      for _j=1,8 do local _ab,_kb=_ba%2,_bk%2;if _ab~=_kb then _r=_r+_bt end;_ba=(_ba-_ab)/2;_bk=(_bk-_kb)/2;_bt=_bt*2 end
+      return _r
+    end
+    
+    local _d0154a313e=(function(_arr)
+      local _o={}
+      for _i=1,#_arr do
+        local _k=_nb35cc36e755[(_i-1)%#_nb35cc36e755+1]
+        _o[_i]=_r41f0b29c46b(_O9be33eeeb4908[_arr[_i]] or 0,_k)
+      end
+      return _o
+    end)({(63-43-16),(107+49),(231-154),(183-8-11),(244-16-12),(1159-1000),(55+24)})
+    
+    local _X159198bb11=function(_e) return _r41f0b29c46b(_O9be33eeeb4908[_e] or 0,_o5856b1bb50735) end
+    local _ua1393960f0a=function(_data)
+      local _r,_i={},1
+      while _i<=#_data do
+        local _len=_X159198bb11(_data[_i])*256+_X159198bb11(_data[_i+1]);_i=_i+2
+        if _len==0 then break end
+        local _p={}
+        for _j=1,_len do _p[_j]=_Hb532226aa9974(_X159198bb11(_data[_i]));_i=_i+1 end
+        _r[#_r+1]=_c6a5abc3eb(_p)
+      end
+      return _r
+    end
+    local _E517a3d9a56=_ua1393960f0a({(1139-1000),(117-31),(82-46-27),(191-21),(672-448),(17+7),(238-71),(157-10-8),(1139-1000)})
+    local _Ua650a55fd=_ua1393960f0a({(465-310),(115+40),(277-82),(99-66),(219+10),(9+15),(95-70-24),(501-334),(252-16-12),(1186-1000),(24+47-47),(170+25),(1127-1000),(112+39),(1186-1000),(3-2),(77+49-49),(453-302),(80+1-1),(204-80),(1167-1000),(1135-1000),(209+21),(1070-1000),(60-40),(129+22),(167+19),(3-2),(128-51),(187-36),(46+34),(1124-1000),(-34+42),(188-53),(229-18-16),(292-77-25),(180-88),(176-14),(205+15),(1075-1000),(301-68-43),(1220-1000),(60+15),(92+35-35),(381-254),(117-57-40),(21+12),(230-3-41),(161+9),(155-49-26),(372-248),(12+9-9),(160-36),(57-52),(240-160),(1224-1000),(118-94),(240-160),(224+12-12),(95-44-42),(1077-1000),(1224-1000),(1170-1000),(135+30),(271-58-18),(230+40-40),(264-69),(149-57),(138+49-49),(660-440),(414-276),(291-59),(228-8),(240-2-6),(228-66),(127+7-7),(-28+40),(585-390),(213-29-22),(193+19),(220+27-27),(486-324),(43-6),(118+9),(95-65-18),(1195-1000),(337-98-49),(291-79),(570-380),(283-24-39),(1176-1000),(274-45-17),(127+23-23),(0+12),(195+40-40),(660-440),(1162-1000),(120-80),(143+47),(1176-1000),(86+41),(-36+48),(262-67),(570-380),(174-19-17),(696-464),(263-20-23),(1175-1000),(169-77),(193+27),(75+45-45),(204-42),(127+29-29),(72-48-12),(227-32),(138+25-25),(138+20-20),(486-324),(660-440),(570-380),(169+43),(97+41),(381-254),(28-5-11),(1195-1000),(175+3-3),(202+18),(88-13),(1127-1000),(36-24),(245-50),(174-99),(221-31),(220+8-8),(220-82),(486-324),(221-61-33),(36-24),(269-25-49),(115+23),(414-276),(486-324),(344-93-31),(190+1-1),(636-424),(202-41-23),(109+18),(1012-1000),(195+39-39),(280-50-40),(112-75),(302-69-1),(1220-1000),(190-15),(153+9),(1220-1000),(414-276),(190+38-38),(127+24-24),(12+47-47),(174+21),(230-40),(107-70),(223-85),(266-54),(205+15),(227-4-33),(1037-1000),(47-1-9),(89-52),(1127-1000),(1012-1000),(287-81-11),(138+44-44),(1176-1000),(271-18-33),(1190-1000),(570-380),(215+5),(259-69),(225-150),(381-254),(-32+44),(585-390),(570-380),(320-70-18),(176+34-34),(184+36),(237-62),(263-40-48),(284-39-25),(58+17),(236-60),(168-41),(57-2-43),(173+22),(196-1-20),(75+17),(1220-1000),(636-424),(191-16),(660-440),(486-324),(381-254),(1012-1000),(279-84),(276-184),(346-72-42),(310-90),(251-64-12),(1138-1000),(381-254),(-30+42),(169+26),(1138-1000),(414-276),(486-324),(220+31-31),(570-380),(253-41),(1138-1000),(99+28),(105-52-41),(194+1),(136+39),(570-380),(1220-1000),(228+4),(44-7),(83+44),(-36+48),(213-18),(166-74),(9+28),(252-32),(232-51-5),(147+15),(210+10),(176+14-14),(180-35-18),(12+12-12),(216-6-15),(570-380),(1037-1000),(528-352),(200-25),(309-73-16),(190+17-17),(1037-1000),(1037-1000),(37+20-20),(146-19),(12+22-22),(1195-1000),(190+32-32),(1037-1000),(696-464),(276-79-21),(1220-1000),(292-99-3),(111-74),(14+23),(169-98-34),(127+31-31),(12+50-50),(1195-1000),(528-352),(283-51),(293-59-14),(636-424),(232-70),(264-44),(275-43-42),(261-21-8),(187-60),(62-48-2),(585-390),(102+36),(1075-1000),(220+40-40),(570-380),(287-84-28),(128-1),(55-43),(1195-1000),(570-380),(223+9),(120-80),(190+42-42),(486-324),(198+22),(190+47-47),(235-73),(127+40-40),(108-61-35),(1195-1000),(486-324),(162+1-1),(1220-1000),(75+4-4),(1162-1000),(660-440),(165+25),(92+6-6),(201-67-7),(1070-1000),(1127-1000),(1087-1000),(166+20),(74+6),(117+34),(1186-1000),(1+35-35),(126-49),(136+15),(167-47-40),(372-248),(510-340),(14-2),(372-248),(90-60),(1077-1000),(70-16-42),(119+5),(30+44-44),(24-16),(1012-1000),(155-31),(76-46),(201-34),(89+46),(111-74),(12+20-20),(1124-1000),(5+37-37),(12+11-11),(372-248),(8+10-10),(12+13-13),(241-17-34),(69-49),(99-66),(1186-1000),(510-340),(122-42),(1124-1000),(263-47),(203-19-49),(1190-1000),(19-4-3),(1162-1000),(1080-1000),(174-56-31),(177+9),(80+19-19),(166-15),(1186-1000),(54-32-21),(1077-1000),(225-74),(240-160),(372-248),(77+48-48),(57-27),(36-24),(94+30),(24-16),(30+42-42),(227-92),(167-43),(1030-1000),(194-67-50),(-14+33),(1138-1000),(80-32-36),(173-48-1),(90-60),(24-16),(60-41),(1138-1000),(122-55-47),(672-448),(1033-1000),(194-73-41),(118+6),(37+40),(30+28-28),(236-54),(135+27-27),(113+11),(-17+25),(30+19-19),(80+39-39),(149+18),(184+20),(1031-1000),(1024-1000),(169-89),(124+47-47),(255-35-50),(1135-1000),(172-26-22),(160+10),(33+7),(161-35-2),(90-60),(251-66-18),(181-83-18),(1031-1000),(72-48),(261-174),(8+12),(1124-1000),(90-60),(118-41),(169-34),(195+31-31),(372-248),(31-1),(144-67),(273-53),(1124-1000),(1077-1000),(1+29),(127+39-39),(222-95-44),(414-276),(20+48-48),(227-70-33),(90-60),(1008-1000),(135+11-11),(268-73),(187-63),(30+19-19),(72-64),(323-78-25),(372-248),(1008-1000),(30+2-2),(1127-1000),(83+7-7),(1138-1000),(64-2-42),(157-7-26),(33-3),(123+44),(160-25),(124+27-27),(27+3),(167+24-24),(1035-1000),(152-14),(80+50-50),(124-54-39),(72-48),(176-85-4),(20+23-23),(234-62-48),(167+6-6),(519-346),(60+34),(372-248),(246-79),(47-7),(570-380),(1023-1000),(107+28),(215-50),(260-93),(228-58),(284-32-28),(24+33-33),(93+46-46),(99-33),(1001-1000),(612-408),(231-154),(1170-1000),(154+41),(214-90),(170+13-13),(127+33-33),(18+13),(24+50-50),(165-66-12),(1020-1000),(201-6-25),(1031-1000),(285-80-38),(687-458),(1170-1000),(24+9-9),(177-83-14),(167+11-11),(1077-1000),(12+18),(235-76-8),(74-43),(198-132),(1+39-39),(159+27),(24+36-36),(1001-1000),(231-154),(1167-1000),(172+23),(372-248),(167+50-50),(127+45-45),(128-64-33),(59-22-13),(139-48-4),(133-6),(1195-1000),(381-254),(1139-1000),(186-27-20)})
+    local _H94d63974={}
+    
+    local _Ge18d4d1862e={[(1055-1000)]="and",[(116+34)]="break",[(176+16-16)]="do",[(62-3)]="else",[(250-62-9)]="elseif",[(324-216)]="end",[(1058-1000)]="false",[(65+2-2)]="for",[(90-36-10)]="function",[(390-260)]="if",[(45+45)]="in",[(139+12-12)]="local",[(227-63-5)]="nil",[(172+26)]="not",[(1165-1000)]="or",[(54+34-34)]="repeat",[(1154-1000)]="return",[(55-23)]="then",[(172-63)]="true",[(1168-1000)]="until",[(74+13)]="while",[(177+47-47)]="+",[(1170-1000)]="-",[(585-390)]="*",[(143+21-21)]="/",[(215-54-1)]="%",[(223-40)]="^",[(128+7-7)]="#",[(60+15)]="..",[(86+47)]="...",[(142-81-13)]="==",[(127+43-43)]="~=",[(1061-1000)]="<",[(219-146)]=">",[(1078-1000)]="<=",[(111+44-44)]=">=",[(447-298)]="=",[(178-27-48)]="(",[(1101-1000)]=")",[(1193-1000)]="[",[(121-23)]="]",[(85-2)]="{",[(138-49-21)]="}",[(210-140)]=";",[(148-86)]=":",[(192-128)]="::",[(173+26-26)]=",",[(185+42-42)]="."}
+    
+    local _k9df0334421bb0,_vd2842e4fd,_iefcd7aa3f428={},1,1
+    while _iefcd7aa3f428<=#_d0154a313e do
+      local _tc=_d0154a313e[_iefcd7aa3f428];_iefcd7aa3f428=_iefcd7aa3f428+1
+      if _tc==(1255-1000) then break end
+      if _tc==(316-83-33) then
+        local _vi=_d0154a313e[_iefcd7aa3f428];_iefcd7aa3f428=_iefcd7aa3f428+1
+        _k9df0334421bb0[_vd2842e4fd]=_E517a3d9a56[_vi+1] or"";_vd2842e4fd=_vd2842e4fd+1
+      elseif _tc==(603-402) then
+        local _vi=_d0154a313e[_iefcd7aa3f428];_iefcd7aa3f428=_iefcd7aa3f428+1
+        _k9df0334421bb0[_vd2842e4fd]=_H94d63974[_vi+1] or"0";_vd2842e4fd=_vd2842e4fd+1
+      elseif _tc==(314-93-19) then
+        local _vi=_d0154a313e[_iefcd7aa3f428];_iefcd7aa3f428=_iefcd7aa3f428+1
+        _k9df0334421bb0[_vd2842e4fd]=_Ua650a55fd[_vi+1] or'""';_vd2842e4fd=_vd2842e4fd+1
+      else
+        local _ts=_Ge18d4d1862e[_tc];if _ts then _k9df0334421bb0[_vd2842e4fd]=_ts;_vd2842e4fd=_vd2842e4fd+1 end
+      end
+      _k9df0334421bb0[_vd2842e4fd]=" ";_vd2842e4fd=_vd2842e4fd+1
+    end
+    local _D2a897e7bb=_c6a5abc3eb(_k9df0334421bb0)
+    
+    local _m43fb2473={(74+20),(1193-1000),(165+32),(636-424),(310-62-35),(51-34),(147+16),(1040-1000),(642-428),(-9+12),(39+7-7),(17-2),(348-232),(299-58),(310-79),(1210-1000),(170-95-10),(245-54-7),(690-460),(299-61-40),(1082-1000),(226+13-13),(268-97-34)}
+    local _q97708e132bbf={}
+    for _i=1,#_D2a897e7bb do
+      _q97708e132bbf[_i]=_r41f0b29c46b(_Z73640b6734dc(_D2a897e7bb,_i),_m43fb2473[(_i-1)%#_m43fb2473+1])
+    end
+    _D2a897e7bb=nil
+    local _M800ef60842=math.max(1,_X049bbe9436(#_q97708e132bbf/7))
+    local _md277eb2a=1
+    local _F977eff2d=function()
+      local _s=(_md277eb2a-1)*_M800ef60842+1
+      if _s>#_q97708e132bbf then return nil end
+      local _e=math.min(_md277eb2a*_M800ef60842,#_q97708e132bbf)
+      _md277eb2a=_md277eb2a+1
+      local _dc={}
+      for _i=_s,_e do
+        local _pi=(_i-1)%#_m43fb2473+1
+        _dc[#_dc+1]=string.char(_r41f0b29c46b(_q97708e132bbf[_i],_m43fb2473[_pi]))
+      end
+      return table.concat(_dc)
+    end
+    
+    local _zd5a5e3c02d
+    local _ok1,_r1=pcall(load,_F977eff2d)
+    if _ok1 and type(_r1)=="function" then
+      _zd5a5e3c02d=_r1
+    else
+      -- load(fn) not supported, reassemble and use loadstring
+      _md277eb2a=1;local _all={}
+      repeat local _c=_F977eff2d();if _c then _all[#_all+1]=_c end until _c==nil
+      _ok1,_zd5a5e3c02d=pcall(loadstring or load,table.concat(_all))
+    end
+    if type(_zd5a5e3c02d)=="function" then pcall(_zd5a5e3c02d) end
+    
+  end)
+  _ve83d24ea()
+end)
+_F3abe4ebf95cb()
+
+local _Ma586690cc = (8357+38)
+local _b945a947966 = math.floor(8696 * 1)
+local _gc07cc6c2 = select("#")
+local _H5e57a9a4dade6 = (8466-1000)
+local _Qf819d2bf260e = (85 > 889) and 7 or 55
+local _f94407092 = math.floor(9115 * 1)
+local _vab0709e0ddc = {}
+do local _D44eba00e8b051 = coroutine.wrap(function() end) end
+local _x331d3bf44e27 = select("#")
+if false then local _ta8eaf82d49 = 307 end
+local _Ydc5262d5c21e = type(nil)
+local _m6ade3ede7d01d = select("#")
+local _Df85687cb8 = {}
